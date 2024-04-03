@@ -2,39 +2,39 @@
   "releases": {
     "3.6": {
       "name": "3.6",
-      "extendedSupport": "2026-02-09"
+      "eoes": "February 9, 2026"
     },
     "3.5": {
       "name": "3.5",
-      "extendedSupport": "2025-08-25"
+      "eoes": "August 25, 2025"
     },
     "3.4": {
       "name": "3.4",
-      "extendedSupport": "2025-05-03"
+      "eoes": "May 3, 2025"
     },
     "3.3": {
       "name": "3.3",
-      "extendedSupport": "2024-11-04"
+      "eoes": "November 4, 2024"
     },
     "3.2": {
       "name": "3.2",
-      "extendedSupport": "2024-07-06"
+      "eoes": "July 6, 2024"
     },
     "3.1": {
       "name": "3.1",
-      "extendedSupport": "2024-04-05"
+      "eoes": "April 5, 2024"
     },
     "3.0": {
       "name": "3.0",
-      "extendedSupport": "2023-10-27"
+      "eoes": "October 27, 2023"
     },
     "2.8": {
       "name": "2.8",
-      "extendedSupport": "2023-06-08"
+      "eoes": "June 8, 2023"
     },
     "2.7": {
       "name": "2.7",
-      "extendedSupport": "2023-02-09"
+      "eoes": "February 9, 2023"
     }
   },
   "versions": {

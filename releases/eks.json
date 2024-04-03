@@ -3,37 +3,37 @@
     "1.29": {
       "name": "1.29",
       "eol": "2025-03-23",
-      "extendedSupport": "2026-03-23"
+      "eoes": "March 23, 2026"
     },
     "1.28": {
       "name": "1.28",
       "eol": "2024-11-26",
-      "extendedSupport": "2025-11-26"
+      "eoes": "November 26, 2025"
     },
     "1.27": {
       "name": "1.27",
       "eol": "2024-07-24",
-      "extendedSupport": "2025-07-24"
+      "eoes": "July 24, 2025"
     },
     "1.26": {
       "name": "1.26",
       "eol": "2024-06-11",
-      "extendedSupport": "2025-06-11"
+      "eoes": "June 11, 2025"
     },
     "1.25": {
       "name": "1.25",
       "eol": "2024-05-01",
-      "extendedSupport": "2025-05-01"
+      "eoes": "May 1, 2025"
     },
     "1.24": {
       "name": "1.24",
       "eol": "2024-01-31",
-      "extendedSupport": "2025-01-31"
+      "eoes": "January 31, 2025"
     },
     "1.23": {
       "name": "1.23",
       "eol": "2023-10-11",
-      "extendedSupport": "2024-10-11"
+      "eoes": "October 11, 2024"
     }
   },
   "versions": {
